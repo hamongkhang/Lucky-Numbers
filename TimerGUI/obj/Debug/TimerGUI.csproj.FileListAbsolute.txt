@@ -1,0 +1,10 @@
+C:\Users\khang.ha22\source\repos\TimerGUI\TimerGUI\bin\Debug\TimerGUI.exe.config
+C:\Users\khang.ha22\source\repos\TimerGUI\TimerGUI\bin\Debug\TimerGUI.exe
+C:\Users\khang.ha22\source\repos\TimerGUI\TimerGUI\bin\Debug\TimerGUI.pdb
+C:\Users\khang.ha22\source\repos\TimerGUI\TimerGUI\obj\Debug\TimerGUI.csprojAssemblyReference.cache
+C:\Users\khang.ha22\source\repos\TimerGUI\TimerGUI\obj\Debug\TimerGUI.Properties.Resources.resources
+C:\Users\khang.ha22\source\repos\TimerGUI\TimerGUI\obj\Debug\TimerGUI.csproj.GenerateResource.cache
+C:\Users\khang.ha22\source\repos\TimerGUI\TimerGUI\obj\Debug\TimerGUI.csproj.CoreCompileInputs.cache
+C:\Users\khang.ha22\source\repos\TimerGUI\TimerGUI\obj\Debug\TimerGUI.exe
+C:\Users\khang.ha22\source\repos\TimerGUI\TimerGUI\obj\Debug\TimerGUI.pdb
+C:\Users\khang.ha22\source\repos\TimerGUI\TimerGUI\obj\Debug\TimerGUI.Form1.resources
